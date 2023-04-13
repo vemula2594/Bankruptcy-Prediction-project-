@@ -1,4 +1,5 @@
-# Bankruptcy-Prediction-project-This project involves building a classification model to predict the probability of bankruptcy for a business based on various features. The dataset contains information on 250 companies and 7 features, and the goal is to predict the target variable, "bankruptcy" or "non-bankruptcy". The project aims to help businesses and investors make informed decisions about investing in a particular company
+# Bankruptcy-Prediction-project-
+This project involves building a classification model to predict the probability of bankruptcy for a business based on various features. The dataset contains information on 250 companies and 7 features, and the goal is to predict the target variable, "bankruptcy" or "non-bankruptcy". The project aims to help businesses and investors make informed decisions about investing in a particular company
 
 Business Objective:
 

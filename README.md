@@ -1,4 +1,4 @@
-![20476867](https://github.com/vemula2594/Bankruptcy-Prediction-project-/assets/110589241/81e06f48-af5c-4f10-a1e4-9a3abb5779f4)
+![sunrise](https://github.com/vemula2594/Bankruptcy-Prediction-project-/assets/110589241/4b814fa4-8d08-4dd8-917c-cf2b9eba6253)
 # Bankruptcy-Prediction-project-
 This project involves building a classification model to predict the probability of bankruptcy for a business based on various features. The dataset contains information on 250 companies and 7 features, and the goal is to predict the target variable, "bankruptcy" or "non-bankruptcy". The project aims to help businesses and investors make informed decisions about investing in a particular company
 
